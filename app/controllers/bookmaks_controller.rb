@@ -1,0 +1,3 @@
+class BookmaksController < ApplicationController
+  
+end
